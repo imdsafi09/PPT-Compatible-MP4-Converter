@@ -36,11 +36,10 @@ git clone https://github.com/<your-username>/ppt-mp4-converter.git
 cd ppt-mp4-converter
 
 ## Install dependencies
-```
+
 sudo apt-get install ffmpeg
-```
+
 ### run script
-```
+
 python ppt_mp4_converter_pro.py
-```
 
