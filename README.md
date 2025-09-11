@@ -41,5 +41,5 @@ sudo apt-get install ffmpeg
 
 ### run script
 
-python ppt_mp4_converter_pro.py
+python3 mp4_converter.py
 
