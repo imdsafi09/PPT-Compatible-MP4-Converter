@@ -24,7 +24,7 @@ Ensures your recordings (e.g., from screen recorders) play smoothly in Microsoft
 
 ## 📸 Screenshots
 
-*(Add your screenshots here once you run it, e.g. `assets/gui.png`)*  
+![Video Speed Changer Preview](assets/Screenshot from 2025-09-11 11-52-33.png)
 
 ---
 
