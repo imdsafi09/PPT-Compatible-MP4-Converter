@@ -24,7 +24,7 @@ Ensures your recordings (e.g., from screen recorders) play smoothly in Microsoft
 
 ## 📸 Screenshots
 
-![App Screenshot](assets/Screenshot from 2025-09-11 11-52-33.png)
+![App Screenshot](assets/Screenshot%20from%202025-09-11%2011-52-33.png)
 
 ---
 
